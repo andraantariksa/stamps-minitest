@@ -1,4 +1,4 @@
-Minitest when I was applying as a Junior Programmer at [PT Stampindo Lancar Jaya](https://glints.com/id/companies/pt-stampindo-lancar-jaya/1807da03-7a80-4613-8013-47cc89cb7966)
+Minitest when I was applying as a Junior Programmer at PT Stampindo Lancar Jaya
 
 Problem given:
 
